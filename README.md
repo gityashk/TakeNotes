@@ -1,6 +1,6 @@
 # TakeNotes 💡📝
 
-> [Site Link]()
+> [Site Link](https://gityashk-takenotes.pages.dev/) 🔗
 
 TakeNotes is a simple note-taking website built with React, JavaScript, and Tailwind CSS. It allows users to create, edit, and delete notes, customize background colors, and save their notes using local storage.
 
