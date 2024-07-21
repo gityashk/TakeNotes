@@ -16,7 +16,7 @@ function Header() {
                     </div>
                 </div>
                 <div>
-                    <a href="https://github.com" target="_blank"><img src={github} /></a>
+                    <a href="https://github.com/gityashk/TakeNotes" target="_blank"><img src={github} /></a>
                 </div>
             </header>
         </>
